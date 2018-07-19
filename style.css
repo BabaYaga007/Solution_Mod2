@@ -1,4 +1,27 @@
+body{
+	box-sizing: border-box;
+}
 #Menu {
 	text-align: center;
 	font-size:175%;
+	padding: 40px
+}
+p {
+	width: 300px;
+	height: 60px;
+	border: 1px solid black;
+	padding: 20px;
+	margin: 50px;
+	float :left;
+}
+
+#Chicken {
+	background-color: #FFFF00;
+}
+#Beef {
+	background-color: #00FFFF;
+}
+#Sushi {
+	background-color: #AC15F7;
+
 }
