@@ -19,9 +19,7 @@ p {
 	border: 1px solid black;
 	height:20px;
 	width:60px;
-	position: absolute;
-	left: 368px;
-	clear: left;
+	
 }
 #Beef {
 	background-color: #00FFFF;
